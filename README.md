@@ -4,7 +4,7 @@ Welcome to the CTF Writeups repository! This repository contains writeups for va
 
 ## Table of Contents
 
-- [2023](#2023)
+- [2023](/2023)
 
 ## Introduction
 

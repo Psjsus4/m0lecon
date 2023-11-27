@@ -1,6 +1,6 @@
-# CTF Writeups Repository
+# Writeups Repository
 
-Welcome to the CTF Writeups repository! This repository contains writeups for various Capture The Flag challenges.
+Welcome to my m0lecon CTF Writeups repository!
 
 ## Table of Contents
 

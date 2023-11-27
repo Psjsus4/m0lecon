@@ -1,4 +1,4 @@
-# The Wall
+# SecureAccess
 
 ### Description
 
@@ -9,7 +9,7 @@ Will ya be able to log in as <span style="color:orange">admin</span>?
 
 ### Material Given
 
-- pyc file
+- .pyc file
 - website
 
 ## Solution

@@ -1,3 +1,5 @@
+# Strange extension
+
 ### Description
 
 I've found this strange file in our super secret project. Can you figure out where the flag is?

@@ -1,8 +1,5 @@
 reverse & pwn are my category and i'm happy to say that with the time given I solved all the challenges about these categories
 
-## List of challenges
+## The only challenge
 
-- Secure Access
-- Polito Pay 2 Win
-- Memory Wizard
-- OURsql
+- The Wall

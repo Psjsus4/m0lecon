@@ -4,10 +4,7 @@ Welcome to the CTF Writeups repository! This repository contains writeups for va
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Directory Structure](#directory-structure)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
+- [2023](#2023)
 
 ## Introduction
 

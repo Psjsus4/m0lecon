@@ -2,7 +2,7 @@ reverse & pwn are my category and I'm happy to say that with the time given I so
 
 ## List of challenges
 
-- [SecureAccess](SecureAccess.md)
-- Polito Pay 2 Win
+- [SecureAccess](./SecureAccess.md)
+- [Polito Pay 2 Win](./Polito%20Pay%202%20Win.md)
 - Memory Wizard
 - OURsql

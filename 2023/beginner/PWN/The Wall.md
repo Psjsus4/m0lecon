@@ -6,7 +6,8 @@ A friend of mine told me about a peculiar bank. You gotta give it a try for me.
 
 ### Material Given
 
-ELF file
+- tcp connection
+- ELF file
 
 ## Solution
 

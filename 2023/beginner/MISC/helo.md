@@ -10,7 +10,7 @@ Website
 
 ## Solution
 
-Email spoofing.
+Email spoofing. Tool that I [used](https://emkei.cz/).
 
 Send the email from filippo@m0lecon.fans to webmaster@m0lecon.fans asking for the password, then enter and get the flag.
 

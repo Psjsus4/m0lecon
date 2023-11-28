@@ -4,7 +4,7 @@ Welcome to my m0lecon CTF Writeups repository!
 
 ## Table of Contents
 
-- [2023](/2023)
+- [2023](/2023/README.md)
 
 ## Introduction
 

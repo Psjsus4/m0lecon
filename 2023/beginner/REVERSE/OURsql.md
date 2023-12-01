@@ -29,6 +29,8 @@ The regUser function create a "new" account in the position of the number of use
 
 So if you create the 101th account it will go in position 1 and so on.
 
+### Get the flag
+
 We can confirm that:
 
 ![Important for solve](../imagines/interestingDB.png)

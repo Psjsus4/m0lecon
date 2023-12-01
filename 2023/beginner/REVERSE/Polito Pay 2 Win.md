@@ -22,9 +22,13 @@ You see a function that increase in game money without any other checks:
 
 ![Important code](../imagines/importantBeforePatching.png)
 
+### Patch it
+
 We can manipolate to get a big quantity of money by simply changing the sign of the value:
 
 ![Getting the solution](../imagines/patching.png)
+
+### Play the game
 
 Now while playing if we get a coin we will get a huge amount of money cuz unsigned value = -1.
 

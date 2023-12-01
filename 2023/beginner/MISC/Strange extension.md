@@ -6,7 +6,7 @@ I've found this strange file in our super secret project. Can you figure out whe
 
 ### Material Given
 
-.ptm file
+- .ptm file
 
 ## Solution
 

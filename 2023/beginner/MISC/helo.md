@@ -6,7 +6,7 @@ Filippo's login is the key, but the door's not open yet. Can you play the digita
 
 ### Material Given
 
-Website
+- Website
 
 ## Solution
 

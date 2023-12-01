@@ -25,7 +25,7 @@ Seeing this you can understand that by sending 21 characters you can get the fla
 
 ### Getting the flag
 
-Exec it and send 21 chars and get the flag
+Execute it and send 21 chars and get the flag
 
 ![Solve](../imagines/flag.png)
 

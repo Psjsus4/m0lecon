@@ -8,7 +8,7 @@ PoliTO can be quite challenging. To pass this exam session, you'll need to earn 
 
 - .zip file
 
-## Unintened solution
+## Unintended solution
 
 While playing the game you see that in the market you can buy an unknown item that is really pricy.
 

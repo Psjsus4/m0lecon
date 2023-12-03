@@ -1,3 +1,3 @@
-# Writeup 2023 m0lecon beginner
+# 2023 writeups m0lecon beginner
 
 ###### (That I solved)

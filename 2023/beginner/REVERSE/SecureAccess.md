@@ -22,7 +22,7 @@ I used the tool [pycdc](https://github.com/zrax/pycdc) and got:
 
 ### Login
 
-With this code you know the username and can calculate the access token by using the string that they give you as nonce:
+With this code you know the username and you are able to calculate the access token by using the string that they give you as nonce:
 
 ![Access token](../imagines/Access%20Token.png)
 
